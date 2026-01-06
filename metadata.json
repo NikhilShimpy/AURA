@@ -1,0 +1,7 @@
+{
+  "name": "AfterClass",
+  "description": "An invisible, behavior-first student well-being ecosystem. Combines flow-state tools, anonymous peer support, and AI-driven stress detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
